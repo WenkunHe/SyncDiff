@@ -1,2 +1,2 @@
 # SyncDiff
-SyncDiff Code &amp; Data
+![Example Image](teaser.png)
